@@ -1,4 +1,7 @@
 <p align="center">
+  <h3 align="center">Original README lists below. </h3>
+
+<p align="center">
   <h3 align="center"><strong>MeshAnything:<br> Artist-Created Mesh Generation<br> with Autoregressive Transformers</strong></h3>
 
 <p align="center">
